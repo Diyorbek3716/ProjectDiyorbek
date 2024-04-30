@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\source\\repos\\onlineshop\\onlineshop\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Hp\\source\\repos\\OnlineShop\\onlineshop\\logines\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\logines\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\source\\repos\\onlineshop\\onlineshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Hp\\source\\repos\\OnlineShop\\onlineshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Hp\\source\\repos\\OnlineShop\\onlineshop\\logines\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\logines\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\source\\repos\\onlineshop\\onlineshop\\forms\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\forms\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\source\\repos\\onlineshop\\onlineshop\\forms\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\forms\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Hp\\source\\repos\\OnlineShop\\onlineshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\source\\repos\\onlineshop\\onlineshop\\userlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\userlist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\source\\repos\\onlineshop\\onlineshop\\forms\\newlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\forms\\newlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Hp\\source\\repos\\OnlineShop\\onlineshop\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|c:\\users\\hp\\source\\repos\\onlineshop\\onlineshop\\forms\\newlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\forms\\newlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|C:\\Users\\Hp\\source\\repos\\OnlineShop\\onlineshop\\onlineshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B78DA1B4-76EA-4EB6-A2C5-E25F062BB465}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\onlineshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 115,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\Admin.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Forms\\Admin.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\Admin.cs [Design]",
+              "RelativeToolTip": "OnlineShop\\Forms\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:42:11.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\SuperAdmin.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Forms\\SuperAdmin.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\SuperAdmin.cs",
+              "RelativeToolTip": "OnlineShop\\Forms\\SuperAdmin.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:22:55.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\SuperAdmin.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Forms\\SuperAdmin.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\SuperAdmin.cs [Design]",
+              "RelativeToolTip": "OnlineShop\\Forms\\SuperAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:19:16.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserList.txt",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\UserList.txt",
+              "RelativeDocumentMoniker": "OnlineShop\\UserList.txt",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\UserList.txt",
+              "RelativeToolTip": "OnlineShop\\UserList.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-30T11:59:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\NewLogin.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Forms\\NewLogin.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\NewLogin.cs",
+              "RelativeToolTip": "OnlineShop\\Forms\\NewLogin.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA0wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:46:55.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\NewLogin.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Forms\\NewLogin.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Forms\\NewLogin.cs [Design]",
+              "RelativeToolTip": "OnlineShop\\Forms\\NewLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:43:27.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OnlineShop",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
+              "RelativeDocumentMoniker": "OnlineShop\\OnlineShop.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
+              "RelativeToolTip": "OnlineShop\\OnlineShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T07:45:58.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "OnlineShop\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Properties\\Resources.resx",
+              "RelativeToolTip": "OnlineShop\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-30T07:45:49.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Program.cs",
+              "RelativeToolTip": "OnlineShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:52:23.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Logines\\Users.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Logines\\Users.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Logines\\Users.cs",
+              "RelativeToolTip": "OnlineShop\\Logines\\Users.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:51:15.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Logines\\Role.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Logines\\Role.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Logines\\Role.cs",
+              "RelativeToolTip": "OnlineShop\\Logines\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:50:27.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Form1.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Form1.cs",
+              "RelativeToolTip": "OnlineShop\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:44:24.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Form1.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OnlineShop\\OnlineShop\\Form1.cs [Design]",
+              "RelativeToolTip": "OnlineShop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:36:03.945Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
